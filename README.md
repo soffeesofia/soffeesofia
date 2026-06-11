@@ -23,10 +23,10 @@ I care about writing clean, maintainable code and building things that are actua
 ### Experience
 
 **Full-Stack Developer & UI Designer** — Zeta Solutions *(Apr 2025 – Mar 2026)*
-Built admin features and user dashboards using Laravel and Nuxt.js, reducing task completion time by 30%.
+Built admin features and user dashboards using Laravel and Nuxt.js, reducing task completion time by 40%.
 
 **Software Engineer Intern** — Pilmico Foods Corporation *(Jun – Aug 2024)*
-Automated customer complaint workflows with Google Apps Script, cutting manual processing time by 60%.
+Automated customer complaint workflows with Google Apps Script, cutting manual processing time by 75%.
 
 ---
 
@@ -42,7 +42,7 @@ Designed 40+ screens for an end-to-end mobile app experience, achieving a 25% us
 
 **[NavEnt](https://github.com/soffeesofia/NavEnt)** — Event Manager Web App
 `Node.js` `PHP` `MySQL` `HTML/CSS/JS`
-Led an 8-person team to deliver a full-stack event management system with QR-based attendance tracking.
+Led an 6-person team to deliver a full-stack event management system with QR-based attendance tracking.
 
 ---
 
