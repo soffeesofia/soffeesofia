@@ -14,7 +14,7 @@
 
 ### About Me
 
-I'm a computer science student and developer who enjoys working across the full stack — from designing interfaces in Figma to building backend systems and training graph neural networks. I've worked on everything from automating internal workflows at a food corporation to classifying social media bots using Graph Attention Networks.
+I'm a computer science graduate and developer who enjoys working across the full stack — from designing interfaces in Figma to building backend systems and training graph neural networks. I've worked on everything from automating internal workflows at a food corporation to classifying social media bots using Graph Attention Networks.
 
 I care about writing clean, maintainable code and building things that are actually useful to the people who use them.
 
